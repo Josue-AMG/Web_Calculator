@@ -1,0 +1,60 @@
+body{
+    background-image: url("https://th.bing.com/th/id/R.5874b486f78f4eba1c6e93f88b7d050a?rik=i4V8zykx93K4bw&pid=ImgRaw&r=0&sres=1&sresct=1");
+}
+button{
+    width: 56px;
+    height: 60px;
+
+}
+#cuerpo{
+    border-color: black;
+    border-style: double;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0px black;
+    
+    width:25%;
+    background-color: gray;
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 10%;
+    position: relative;
+    padding: 30px;
+
+}
+input{
+    height: 60px;
+    width: 96%;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(49, 215, 7);
+    background-color: black;
+}
+
+#btn0{ 
+    
+    width: 24ch;
+    background-color: cadetblue;
+    color:white ;
+    height: 55px;
+   
+}
+#btnigual{
+    background-color: brown;
+    color: white;
+    height: 55px;
+    width: 17.8ch;
+
+    
+}
+#btn1,#btn2,#btn3,#btn4,#btn5,#btn6,#btn7,#btn8,#btn9,#btn00{
+background-color: blue;
+color:bisque;
+
+}
+#btnsuma,#btndivi,#btnmulti,#btnres{
+background-color: darkcyan;
+color:bisque;
+
+
+
+}
